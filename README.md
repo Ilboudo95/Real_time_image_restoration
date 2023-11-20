@@ -97,9 +97,10 @@ Furthermore, our solution is not recommended for the restoration of medical imag
     dill==0.3.6
     uvicorn==0.23.2
 
-    run this line on cmd prompt:  pip install -r requirements.txt
+    
 2 - DEPLOYEMENT
-
+    run this line on cmd prompt:  pip install -r requirements.txt
+    
     First, be in work directory ( "/Image_restoration") 
     run the code in the CMD prompt
 
