@@ -1,0 +1,13 @@
+starlette==0.27.0
+fastapi==0.103.1
+tensorflow==2.10.1
+tensorflow-hub==0.13.0
+ISR==2.2.0
+Pillow==9.4.0
+fastai==2.7.13
+matplotlib==3.7.1
+numpy==1.25.0
+opencv-python== 4.8.0.76
+moviepy==1.0.3
+dill==0.3.6
+uvicorn==0.23.2
